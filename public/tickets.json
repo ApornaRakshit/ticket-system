@@ -1,0 +1,137 @@
+[
+    {
+      "id": 2001,
+      "title": "Registration form validation error",
+      "description": "Users receive validation errors even when entering correct information.",
+      "customer": "BlueWave Ltd.",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2026-03-06"
+    },
+    {
+      "id": 2002,
+      "title": "Order history not displaying",
+      "description": "Customer order history page shows empty results.",
+      "customer": "MarketPlus",
+      "priority": "High",
+      "status": "In Progress",
+      "createdAt": "2026-03-06"
+    },
+    {
+      "id": 2003,
+      "title": "Notification badge not updating",
+      "description": "Unread notification count remains unchanged after viewing messages.",
+      "customer": "TechSphere",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2026-03-06"
+    },
+    {
+      "id": 2004,
+      "title": "File upload exceeding limit",
+      "description": "System blocks uploads even when file size is under the allowed limit.",
+      "customer": "Visionary Systems",
+      "priority": "Medium",
+      "status": "In Progress",
+      "createdAt": "2026-03-07"
+    },
+    {
+      "id": 2005,
+      "title": "Product images not loading",
+      "description": "Several product images fail to load on the catalog page.",
+      "customer": "ShopEase",
+      "priority": "High",
+      "status": "Open",
+      "createdAt": "2026-03-07"
+    },
+    {
+      "id": 2006,
+      "title": "Checkout button unresponsive",
+      "description": "Clicking the checkout button does not redirect to the payment page.",
+      "customer": "RetailCore",
+      "priority": "Critical",
+      "status": "In Progress",
+      "createdAt": "2026-03-07"
+    },
+    {
+      "id": 2007,
+      "title": "User profile update failed",
+      "description": "Changes to user profiles are not saved after submission.",
+      "customer": "NextLevel Tech",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2026-03-08"
+    },
+    {
+      "id": 2008,
+      "title": "Broken link in footer section",
+      "description": "Privacy policy link leads to a missing page.",
+      "customer": "InfoBridge",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2026-03-08"
+    },
+    {
+      "id": 2009,
+      "title": "Multi-language switch not working",
+      "description": "Language toggle does not update text across the website.",
+      "customer": "Global Connect",
+      "priority": "High",
+      "status": "In Progress",
+      "createdAt": "2026-03-08"
+    },
+    {
+      "id": 2010,
+      "title": "Reports page loading slowly",
+      "description": "Analytics reports take more than 20 seconds to load.",
+      "customer": "Insight Labs",
+      "priority": "Medium",
+      "status": "Open",
+      "createdAt": "2026-03-09"
+    },
+    {
+      "id": 2011,
+      "title": "Two-factor authentication error",
+      "description": "Verification code is rejected even when entered correctly.",
+      "customer": "SecureGate",
+      "priority": "Critical",
+      "status": "Open",
+      "createdAt": "2026-03-09"
+    },
+    {
+      "id": 2012,
+      "title": "Cart items disappear after refresh",
+      "description": "Items added to the cart are removed when the page reloads.",
+      "customer": "QuickBuy",
+      "priority": "High",
+      "status": "In Progress",
+      "createdAt": "2026-03-09"
+    },
+    {
+      "id": 2013,
+      "title": "Theme settings not saved",
+      "description": "Dark mode preference resets after logging out.",
+      "customer": "DesignFlow",
+      "priority": "Low",
+      "status": "Open",
+      "createdAt": "2026-03-09"
+    },
+    {
+      "id": 2014,
+      "title": "Search suggestions not appearing",
+      "description": "Autocomplete suggestions do not show while typing in search bar.",
+      "customer": "DataPulse",
+      "priority": "Medium",
+      "status": "In Progress",
+      "createdAt": "2026-03-10"
+    },
+    {
+      "id": 2015,
+      "title": "API rate limit exceeded frequently",
+      "description": "System exceeds API request limits causing service interruptions.",
+      "customer": "CloudSync",
+      "priority": "Critical",
+      "status": "Open",
+      "createdAt": "2026-03-10"
+    }
+  ]
