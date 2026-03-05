@@ -1,7 +1,7 @@
 
 ### ✅ Readme: 
 
- ## What is JSX, and why is it used?
+ ### What is JSX, and why is it used?
  - Ans: JSX এর পূর্ণরূপ হলো JavaScript XML। React এ আমরা JSX ব্যবহার করি যাতে JavaScript এর ভিতরে HTML এর মতো কোড লিখতে পারি। এটা ব্যবহার করলে UI কোড সহজে বুঝা যায়। পরে React এই JSX কোডকে সাধারণ JavaScript এ convert করে।
  ## What is the difference between State and Props?
  - Ans: Props ব্যবহার করা হয় parent component থেকে child component এ data পাঠানোর জন্য। Props read-only, অর্থাৎ এটাকে পরিবর্তন করা যায় না। 
