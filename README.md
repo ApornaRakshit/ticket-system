@@ -106,14 +106,6 @@ Clicking **Complete Button**:
 - **React.js** (Mandatory)
 
 
-
-### 📅 Deadline For 60 marks: 5th March, 2026 (11:59 pm ⏱️)
-
-### 📅 Deadline For 50 marks: 6th March, 2026 (11:59 pm ⏱️)
-
-### 📅 Deadline For 30 marks: Until the next assignment is published.
-
-
 ---
 
 
